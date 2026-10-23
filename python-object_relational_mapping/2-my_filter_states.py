@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Display states matching the user input."""
 
